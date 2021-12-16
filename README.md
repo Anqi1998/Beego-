@@ -21,5 +21,4 @@
 
 ### 搜索结构 <br>
 ![image](https://user-images.githubusercontent.com/32508260/146316670-1888675e-2ba9-4950-8aef-cda906b88b3f.png) <br>
-预览 <br>
 ![2021-12-16 13-55-15 的屏幕截图](https://user-images.githubusercontent.com/32508260/146316458-64d583ac-a025-451c-bc12-3a694a66ee54.png)
