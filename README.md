@@ -20,6 +20,6 @@
 ![image](https://user-images.githubusercontent.com/32508260/146312376-4b8506c7-96b8-4851-892e-281161a1d101.png)
 
 ### 搜索结构 <br>
-![image](https://user-images.githubusercontent.com/32508260/146316670-1888675e-2ba9-4950-8aef-cda906b88b3f.png)
+![image](https://user-images.githubusercontent.com/32508260/146316670-1888675e-2ba9-4950-8aef-cda906b88b3f.png) <br>
 预览 <br>
 ![2021-12-16 13-55-15 的屏幕截图](https://user-images.githubusercontent.com/32508260/146316458-64d583ac-a025-451c-bc12-3a694a66ee54.png)
